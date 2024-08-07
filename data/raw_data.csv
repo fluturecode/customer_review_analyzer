@@ -1,0 +1,1001 @@
+review,sentiment
+acceptable acceptable mediocre acceptable fair,2
+awful poor poor poor bad,0
+wonderful wonderful amazing excellent,1
+excellent great amazing,1
+fantastic amazing great amazing excellent,1
+poor awful disappointing disappointing terrible,0
+terrible poor bad,0
+fantastic fantastic fantastic amazing,1
+amazing amazing wonderful wonderful,1
+fair okay fair,2
+awful bad terrible poor poor,0
+awful poor disappointing,0
+bad awful poor,0
+poor terrible terrible awful terrible,0
+bad poor bad disappointing poor,0
+acceptable average okay,2
+mediocre fair okay,2
+mediocre mediocre fair average,2
+disappointing awful awful,0
+terrible terrible disappointing disappointing,0
+okay average mediocre fair,2
+awful terrible poor terrible terrible,0
+amazing wonderful fantastic amazing,1
+acceptable okay mediocre,2
+excellent wonderful wonderful,1
+bad bad terrible,0
+terrible terrible awful bad,0
+okay okay acceptable average,2
+terrible disappointing terrible,0
+bad poor bad,0
+poor awful disappointing awful,0
+mediocre mediocre okay,2
+disappointing disappointing terrible awful,0
+fair mediocre okay,2
+okay acceptable mediocre okay average,2
+mediocre acceptable acceptable okay fair,2
+okay mediocre average fair,2
+okay average okay acceptable,2
+poor awful poor poor,0
+acceptable fair average average average,2
+amazing excellent fantastic excellent,1
+average average fair acceptable,2
+average okay mediocre,2
+great fantastic fantastic great,1
+excellent amazing great amazing,1
+average acceptable acceptable acceptable,2
+mediocre mediocre acceptable mediocre okay,2
+fair acceptable mediocre fair average,2
+mediocre mediocre average,2
+poor awful disappointing,0
+disappointing terrible disappointing poor,0
+bad disappointing poor terrible terrible,0
+mediocre okay acceptable okay,2
+poor terrible terrible disappointing poor,0
+average okay average,2
+wonderful fantastic wonderful great great,1
+amazing wonderful amazing amazing wonderful,1
+great wonderful amazing wonderful,1
+bad poor terrible poor,0
+great excellent amazing,1
+amazing excellent wonderful wonderful,1
+fantastic great amazing wonderful amazing,1
+bad poor terrible,0
+mediocre acceptable average,2
+poor bad disappointing awful,0
+awful bad bad poor,0
+excellent excellent great fantastic great,1
+average average acceptable acceptable okay,2
+fantastic great excellent excellent amazing,1
+fantastic great fantastic,1
+disappointing bad terrible,0
+disappointing disappointing awful,0
+terrible bad awful terrible,0
+fantastic fantastic wonderful wonderful wonderful,1
+wonderful fantastic fantastic,1
+fair fair average okay acceptable,2
+acceptable mediocre fair,2
+bad bad awful,0
+fair acceptable mediocre fair okay,2
+terrible terrible awful poor awful,0
+disappointing poor bad terrible terrible,0
+acceptable okay okay,2
+poor awful terrible disappointing,0
+awful awful bad bad,0
+fair average average,2
+acceptable okay okay,2
+okay average mediocre acceptable mediocre,2
+wonderful amazing amazing excellent great,1
+average fair okay mediocre,2
+bad bad bad poor,0
+fair okay mediocre mediocre,2
+terrible awful terrible terrible awful,0
+wonderful wonderful fantastic excellent,1
+fair okay average,2
+bad poor terrible,0
+great excellent wonderful wonderful,1
+okay fair mediocre fair,2
+poor terrible terrible disappointing disappointing,0
+excellent great great,1
+excellent amazing amazing,1
+wonderful great amazing amazing amazing,1
+amazing amazing fantastic excellent wonderful,1
+okay average fair okay average,2
+average average average fair,2
+okay acceptable mediocre mediocre fair,2
+excellent amazing great fantastic,1
+bad disappointing awful,0
+bad poor terrible,0
+terrible awful terrible,0
+terrible disappointing terrible awful,0
+poor poor awful poor,0
+average average okay okay,2
+awful awful disappointing poor bad,0
+bad poor disappointing disappointing bad,0
+terrible bad terrible awful disappointing,0
+fair okay fair,2
+acceptable acceptable average fair mediocre,2
+fantastic amazing wonderful amazing great,1
+excellent great amazing,1
+wonderful excellent excellent wonderful great,1
+mediocre fair mediocre acceptable,2
+awful bad disappointing terrible,0
+bad terrible bad,0
+average mediocre acceptable average,2
+fantastic fantastic excellent,1
+okay average fair mediocre,2
+okay fair okay,2
+acceptable okay acceptable mediocre okay,2
+bad poor bad terrible,0
+wonderful fantastic fantastic great amazing,1
+wonderful amazing amazing amazing excellent,1
+disappointing poor terrible awful,0
+average acceptable average,2
+terrible terrible bad bad,0
+excellent wonderful amazing,1
+awful terrible awful awful awful,0
+amazing fantastic amazing wonderful,1
+fantastic excellent fantastic,1
+amazing excellent wonderful amazing amazing,1
+excellent wonderful wonderful amazing wonderful,1
+fair average acceptable fair acceptable,2
+fair okay mediocre,2
+great amazing excellent great,1
+amazing excellent excellent,1
+fair average okay fair fair,2
+disappointing poor bad poor,0
+fair mediocre average,2
+terrible bad terrible,0
+fantastic wonderful amazing,1
+wonderful amazing wonderful fantastic fantastic,1
+acceptable acceptable fair okay,2
+terrible poor poor poor,0
+great fantastic amazing,1
+amazing excellent fantastic,1
+disappointing awful disappointing disappointing,0
+excellent wonderful great great wonderful,1
+disappointing bad awful awful,0
+fantastic fantastic wonderful excellent,1
+great excellent amazing,1
+poor terrible poor terrible terrible,0
+mediocre average okay mediocre acceptable,2
+okay acceptable average,2
+fair acceptable average acceptable okay,2
+acceptable okay okay mediocre,2
+terrible terrible terrible,0
+excellent fantastic excellent amazing,1
+wonderful amazing fantastic wonderful,1
+disappointing disappointing awful poor bad,0
+acceptable okay mediocre,2
+mediocre fair mediocre okay fair,2
+okay acceptable acceptable,2
+terrible disappointing bad poor disappointing,0
+great amazing amazing,1
+average okay fair acceptable okay,2
+disappointing poor terrible,0
+terrible bad awful poor,0
+okay acceptable fair okay,2
+fantastic great amazing,1
+fantastic excellent fantastic wonderful,1
+okay mediocre acceptable mediocre,2
+bad poor poor disappointing,0
+terrible terrible terrible awful,0
+terrible disappointing disappointing disappointing,0
+fantastic wonderful great,1
+disappointing poor terrible disappointing,0
+wonderful excellent amazing great wonderful,1
+okay okay acceptable fair,2
+fair mediocre fair okay okay,2
+mediocre fair average,2
+wonderful fantastic excellent fantastic fantastic,1
+fantastic wonderful wonderful excellent,1
+bad terrible poor bad terrible,0
+mediocre average mediocre,2
+great wonderful fantastic,1
+okay mediocre fair okay,2
+bad disappointing bad poor,0
+great wonderful excellent great great,1
+mediocre acceptable acceptable acceptable,2
+amazing excellent amazing excellent,1
+fantastic excellent excellent great great,1
+fair mediocre average average,2
+fair okay fair fair,2
+fair fair average,2
+bad terrible disappointing disappointing,0
+excellent fantastic wonderful great great,1
+average okay mediocre average average,2
+okay acceptable mediocre mediocre acceptable,2
+poor bad poor poor,0
+wonderful excellent fantastic great excellent,1
+mediocre mediocre acceptable,2
+bad terrible bad disappointing disappointing,0
+acceptable average average,2
+acceptable acceptable mediocre,2
+mediocre mediocre acceptable,2
+fantastic wonderful great great fantastic,1
+awful terrible awful bad terrible,0
+okay mediocre mediocre acceptable average,2
+mediocre okay acceptable,2
+terrible poor disappointing,0
+disappointing bad awful,0
+terrible poor awful,0
+okay acceptable fair okay fair,2
+mediocre mediocre mediocre fair,2
+fair acceptable fair okay,2
+wonderful amazing excellent excellent great,1
+average mediocre okay,2
+acceptable mediocre okay acceptable,2
+okay fair okay,2
+amazing wonderful wonderful amazing wonderful,1
+amazing excellent fantastic wonderful fantastic,1
+fantastic excellent great,1
+poor terrible poor disappointing disappointing,0
+poor bad bad poor terrible,0
+amazing great amazing excellent,1
+bad bad bad,0
+great excellent great excellent great,1
+okay fair okay mediocre,2
+acceptable average average fair okay,2
+mediocre fair mediocre acceptable fair,2
+acceptable mediocre fair fair average,2
+poor terrible terrible disappointing,0
+fair acceptable acceptable,2
+okay okay acceptable mediocre,2
+amazing amazing excellent,1
+wonderful fantastic amazing excellent,1
+disappointing awful awful,0
+mediocre acceptable okay mediocre fair,2
+terrible terrible poor disappointing poor,0
+excellent amazing excellent excellent wonderful,1
+great amazing great wonderful wonderful,1
+great fantastic great excellent,1
+wonderful excellent fantastic fantastic,1
+bad bad disappointing terrible poor,0
+great wonderful wonderful amazing,1
+average mediocre okay okay,2
+acceptable mediocre okay fair acceptable,2
+average fair acceptable acceptable,2
+awful awful awful bad bad,0
+terrible awful bad,0
+fantastic great fantastic amazing amazing,1
+okay average mediocre,2
+mediocre average average,2
+wonderful great amazing great,1
+terrible poor awful poor,0
+acceptable acceptable average mediocre,2
+disappointing terrible poor poor,0
+terrible poor poor poor,0
+terrible awful bad bad,0
+wonderful excellent excellent wonderful fantastic,1
+fantastic fantastic excellent,1
+terrible disappointing awful bad terrible,0
+disappointing bad awful bad poor,0
+mediocre fair average acceptable average,2
+poor poor terrible,0
+fantastic amazing fantastic fantastic,1
+bad poor poor,0
+awful awful disappointing,0
+awful awful poor bad awful,0
+disappointing disappointing bad,0
+fair acceptable fair mediocre,2
+terrible awful awful,0
+great great amazing amazing,1
+terrible terrible disappointing poor,0
+excellent wonderful fantastic excellent amazing,1
+disappointing awful bad bad poor,0
+bad disappointing awful bad,0
+wonderful fantastic fantastic great,1
+acceptable fair fair,2
+great amazing wonderful excellent excellent,1
+bad terrible poor disappointing awful,0
+wonderful amazing excellent fantastic excellent,1
+fantastic great wonderful excellent amazing,1
+fantastic amazing amazing great,1
+awful terrible disappointing,0
+great fantastic wonderful,1
+okay mediocre fair,2
+awful poor terrible,0
+okay average acceptable acceptable okay,2
+mediocre mediocre acceptable acceptable okay,2
+awful bad poor,0
+excellent excellent fantastic great fantastic,1
+average okay okay average mediocre,2
+disappointing bad terrible,0
+mediocre acceptable acceptable acceptable,2
+excellent excellent great excellent fantastic,1
+amazing fantastic excellent excellent fantastic,1
+acceptable mediocre mediocre,2
+awful disappointing awful terrible disappointing,0
+great great excellent great amazing,1
+acceptable okay acceptable acceptable,2
+excellent amazing fantastic excellent amazing,1
+wonderful great wonderful,1
+awful awful disappointing awful terrible,0
+acceptable acceptable okay,2
+wonderful great excellent,1
+disappointing terrible poor disappointing,0
+great great great wonderful great,1
+poor bad poor bad poor,0
+mediocre fair acceptable,2
+wonderful amazing great amazing,1
+excellent wonderful amazing amazing,1
+fair fair fair mediocre,2
+great wonderful amazing,1
+awful awful disappointing bad awful,0
+fair okay mediocre acceptable,2
+amazing wonderful great fantastic,1
+awful terrible terrible awful,0
+awful terrible terrible terrible,0
+fantastic fantastic wonderful fantastic,1
+fantastic fantastic amazing fantastic fantastic,1
+terrible disappointing bad,0
+fantastic great amazing,1
+average average fair average,2
+excellent amazing fantastic great,1
+bad awful bad terrible disappointing,0
+bad poor disappointing terrible,0
+terrible bad poor,0
+amazing great fantastic,1
+okay fair mediocre acceptable,2
+bad bad bad poor,0
+great wonderful amazing,1
+acceptable average mediocre mediocre mediocre,2
+awful terrible awful,0
+terrible terrible awful,0
+average mediocre average average,2
+excellent great amazing wonderful amazing,1
+average fair average,2
+poor awful terrible disappointing,0
+amazing wonderful amazing fantastic,1
+bad disappointing poor terrible terrible,0
+disappointing disappointing terrible,0
+poor disappointing bad awful awful,0
+wonderful fantastic amazing fantastic fantastic,1
+fair acceptable average mediocre,2
+awful awful terrible,0
+okay acceptable acceptable mediocre average,2
+disappointing bad awful disappointing disappointing,0
+disappointing disappointing disappointing bad awful,0
+fair acceptable okay fair acceptable,2
+great fantastic fantastic,1
+acceptable mediocre average acceptable,2
+fantastic great fantastic,1
+bad bad poor poor awful,0
+excellent excellent fantastic fantastic,1
+poor awful awful terrible disappointing,0
+amazing wonderful amazing,1
+bad terrible poor poor awful,0
+mediocre acceptable acceptable mediocre,2
+awful bad terrible,0
+mediocre average fair,2
+average acceptable fair acceptable,2
+bad poor bad,0
+acceptable acceptable mediocre,2
+acceptable average mediocre fair average,2
+awful disappointing awful awful,0
+average acceptable fair,2
+disappointing awful disappointing,0
+average okay acceptable acceptable,2
+fantastic wonderful great,1
+wonderful fantastic wonderful amazing,1
+acceptable acceptable acceptable fair,2
+fair average mediocre average,2
+terrible awful disappointing,0
+great fantastic great wonderful,1
+awful poor terrible poor,0
+average average okay okay,2
+terrible bad terrible poor,0
+poor disappointing poor,0
+average acceptable average,2
+wonderful wonderful amazing fantastic,1
+acceptable average mediocre average,2
+terrible bad awful terrible bad,0
+terrible bad poor poor poor,0
+okay mediocre average acceptable average,2
+okay mediocre mediocre average,2
+average average average,2
+awful terrible terrible bad,0
+okay fair average okay mediocre,2
+mediocre average mediocre average average,2
+disappointing disappointing poor poor,0
+acceptable fair average,2
+disappointing awful bad,0
+acceptable average okay,2
+fantastic amazing wonderful excellent,1
+acceptable average acceptable fair,2
+disappointing awful poor bad,0
+fair acceptable average average average,2
+fair mediocre acceptable,2
+average fair average,2
+poor disappointing bad poor,0
+poor terrible disappointing poor poor,0
+awful disappointing poor,0
+mediocre mediocre fair fair,2
+fantastic amazing great great,1
+okay mediocre fair acceptable average,2
+poor terrible disappointing disappointing,0
+okay fair mediocre okay acceptable,2
+bad awful disappointing disappointing terrible,0
+average mediocre fair,2
+disappointing terrible poor bad awful,0
+average okay okay acceptable,2
+poor poor awful bad terrible,0
+excellent amazing great,1
+fair average average fair,2
+wonderful great excellent fantastic,1
+mediocre average okay acceptable mediocre,2
+great excellent amazing amazing wonderful,1
+terrible disappointing terrible terrible bad,0
+excellent wonderful fantastic wonderful great,1
+poor terrible terrible awful terrible,0
+terrible terrible awful,0
+mediocre okay average okay acceptable,2
+amazing excellent fantastic,1
+acceptable acceptable average,2
+poor terrible disappointing disappointing,0
+excellent amazing fantastic great,1
+okay mediocre average,2
+poor awful bad awful,0
+bad disappointing awful disappointing bad,0
+awful terrible bad,0
+average average okay fair,2
+disappointing awful poor poor,0
+bad terrible poor,0
+fantastic amazing great wonderful amazing,1
+acceptable mediocre okay,2
+okay average fair mediocre fair,2
+disappointing disappointing poor,0
+terrible disappointing terrible,0
+terrible poor awful,0
+amazing excellent great excellent fantastic,1
+terrible bad poor bad bad,0
+mediocre mediocre okay acceptable mediocre,2
+terrible disappointing disappointing bad terrible,0
+okay mediocre acceptable fair acceptable,2
+disappointing terrible awful bad disappointing,0
+fantastic wonderful excellent excellent great,1
+wonderful amazing great,1
+bad disappointing terrible terrible terrible,0
+bad awful poor,0
+terrible awful terrible disappointing,0
+awful bad poor bad poor,0
+amazing wonderful wonderful fantastic,1
+mediocre fair fair mediocre,2
+bad bad poor disappointing,0
+great great great wonderful wonderful,1
+bad poor awful bad,0
+poor poor awful,0
+great wonderful fantastic,1
+awful terrible awful,0
+wonderful amazing wonderful excellent,1
+great wonderful excellent great fantastic,1
+great great fantastic,1
+amazing fantastic amazing excellent,1
+poor awful terrible terrible,0
+bad awful awful,0
+acceptable acceptable acceptable,2
+terrible terrible disappointing disappointing,0
+fair okay okay average,2
+great excellent fantastic amazing,1
+poor awful disappointing,0
+okay average average mediocre,2
+mediocre okay average average,2
+terrible awful disappointing awful awful,0
+poor bad awful,0
+fair average average fair fair,2
+bad poor terrible,0
+acceptable acceptable fair,2
+terrible terrible awful,0
+acceptable average okay fair mediocre,2
+mediocre fair fair,2
+disappointing bad poor,0
+amazing great fantastic amazing fantastic,1
+poor disappointing terrible,0
+disappointing disappointing awful poor,0
+fantastic amazing amazing wonderful great,1
+wonderful amazing great,1
+okay mediocre mediocre acceptable,2
+terrible bad bad,0
+mediocre average average mediocre,2
+wonderful amazing amazing,1
+average mediocre average fair average,2
+terrible terrible awful bad awful,0
+okay fair fair,2
+amazing great great excellent,1
+fantastic amazing excellent wonderful,1
+excellent great fantastic,1
+bad disappointing poor,0
+disappointing terrible poor terrible,0
+okay acceptable fair acceptable mediocre,2
+bad poor awful terrible,0
+great wonderful amazing,1
+terrible terrible awful disappointing poor,0
+okay average average,2
+poor terrible terrible terrible,0
+excellent excellent great,1
+average average fair,2
+poor bad bad,0
+fantastic wonderful great,1
+acceptable average average,2
+fair okay fair acceptable,2
+amazing fantastic amazing amazing,1
+amazing excellent great excellent wonderful,1
+fair acceptable mediocre okay,2
+fair mediocre acceptable okay okay,2
+wonderful amazing wonderful amazing,1
+disappointing disappointing terrible,0
+bad poor awful,0
+great amazing fantastic great,1
+excellent great great fantastic amazing,1
+great fantastic excellent great,1
+awful bad awful disappointing disappointing,0
+fantastic great wonderful wonderful fantastic,1
+terrible awful poor,0
+average mediocre average mediocre,2
+acceptable acceptable okay,2
+awful disappointing bad terrible bad,0
+fair okay average average fair,2
+terrible awful bad bad,0
+amazing fantastic amazing,1
+awful terrible poor disappointing awful,0
+average mediocre okay mediocre,2
+awful terrible bad awful,0
+bad awful bad poor poor,0
+fair fair fair,2
+average fair average,2
+average mediocre average okay,2
+excellent wonderful wonderful,1
+disappointing disappointing disappointing terrible awful,0
+fantastic excellent fantastic great,1
+amazing amazing great,1
+awful bad bad,0
+fair average fair mediocre,2
+bad awful awful awful bad,0
+average mediocre mediocre okay,2
+okay acceptable acceptable okay mediocre,2
+bad disappointing terrible disappointing,0
+average okay okay fair,2
+amazing great fantastic fantastic,1
+poor terrible bad,0
+okay acceptable average,2
+acceptable mediocre acceptable acceptable mediocre,2
+okay acceptable okay,2
+okay okay average,2
+fair okay fair average,2
+average mediocre fair,2
+mediocre mediocre fair mediocre,2
+terrible terrible poor,0
+wonderful amazing fantastic,1
+disappointing terrible disappointing,0
+excellent fantastic excellent excellent wonderful,1
+average average acceptable,2
+terrible terrible bad disappointing,0
+fair acceptable okay okay,2
+bad bad poor,0
+terrible poor poor,0
+fair fair mediocre okay mediocre,2
+poor bad bad disappointing poor,0
+excellent excellent excellent great wonderful,1
+wonderful excellent excellent amazing,1
+great wonderful excellent excellent amazing,1
+excellent wonderful great,1
+disappointing disappointing poor terrible awful,0
+wonderful excellent excellent,1
+awful disappointing awful poor bad,0
+awful disappointing disappointing awful disappointing,0
+mediocre fair fair fair,2
+average average fair mediocre,2
+mediocre mediocre acceptable mediocre mediocre,2
+disappointing bad terrible poor poor,0
+fair mediocre fair acceptable,2
+disappointing bad disappointing,0
+poor bad poor disappointing bad,0
+terrible disappointing awful bad awful,0
+fantastic wonderful amazing amazing wonderful,1
+poor terrible terrible poor awful,0
+disappointing disappointing terrible,0
+fantastic fantastic great amazing,1
+terrible bad terrible awful,0
+wonderful great wonderful fantastic great,1
+terrible bad terrible,0
+wonderful amazing fantastic,1
+great excellent excellent wonderful fantastic,1
+amazing excellent great,1
+wonderful fantastic excellent excellent,1
+terrible disappointing disappointing disappointing,0
+great fantastic amazing great,1
+wonderful excellent fantastic,1
+terrible terrible bad awful,0
+awful awful poor disappointing,0
+amazing amazing amazing fantastic wonderful,1
+awful disappointing awful poor,0
+fair fair average okay,2
+mediocre mediocre acceptable fair,2
+fantastic wonderful amazing wonderful,1
+fantastic wonderful great excellent excellent,1
+great great great wonderful amazing,1
+wonderful amazing wonderful,1
+wonderful excellent fantastic,1
+amazing fantastic great fantastic,1
+amazing wonderful excellent amazing,1
+disappointing terrible poor poor awful,0
+acceptable acceptable acceptable average,2
+poor poor disappointing disappointing,0
+disappointing poor disappointing bad bad,0
+excellent excellent amazing,1
+acceptable mediocre okay fair,2
+awful poor terrible,0
+amazing amazing amazing wonderful fantastic,1
+wonderful fantastic fantastic,1
+fantastic great fantastic wonderful amazing,1
+excellent excellent fantastic great fantastic,1
+poor awful bad awful poor,0
+awful bad disappointing poor,0
+disappointing awful poor bad,0
+terrible poor disappointing terrible,0
+fair acceptable mediocre,2
+wonderful wonderful amazing wonderful,1
+acceptable acceptable average fair fair,2
+fair okay acceptable,2
+mediocre average okay,2
+fair okay acceptable,2
+awful awful disappointing terrible,0
+wonderful wonderful fantastic great amazing,1
+average acceptable acceptable,2
+terrible poor disappointing disappointing,0
+excellent wonderful excellent fantastic,1
+terrible awful terrible poor,0
+fair acceptable okay fair fair,2
+acceptable average average,2
+disappointing bad terrible disappointing,0
+awful terrible poor poor,0
+great wonderful excellent fantastic,1
+excellent great excellent,1
+acceptable fair average okay mediocre,2
+bad terrible disappointing terrible disappointing,0
+okay mediocre fair,2
+disappointing awful awful terrible,0
+wonderful great amazing fantastic,1
+wonderful great wonderful excellent,1
+average average average,2
+terrible disappointing terrible disappointing,0
+terrible bad poor,0
+disappointing disappointing disappointing poor,0
+terrible awful bad poor,0
+bad poor terrible awful,0
+disappointing poor awful terrible,0
+fantastic great excellent,1
+terrible bad terrible disappointing,0
+bad disappointing poor terrible,0
+okay fair fair,2
+poor terrible terrible terrible,0
+terrible poor terrible,0
+disappointing awful disappointing bad,0
+mediocre fair acceptable acceptable acceptable,2
+fantastic fantastic wonderful,1
+bad disappointing awful bad,0
+average mediocre mediocre okay,2
+excellent amazing excellent great wonderful,1
+great great great amazing,1
+average fair okay,2
+great wonderful amazing,1
+amazing fantastic wonderful,1
+excellent fantastic wonderful great,1
+great wonderful wonderful,1
+fantastic fantastic excellent,1
+mediocre fair okay,2
+okay okay acceptable average,2
+average okay acceptable,2
+average mediocre acceptable,2
+poor terrible poor awful bad,0
+terrible bad bad bad awful,0
+poor poor poor,0
+fair okay fair okay,2
+average fair average average,2
+excellent fantastic fantastic,1
+excellent amazing excellent amazing excellent,1
+excellent excellent excellent excellent excellent,1
+poor awful awful awful awful,0
+average mediocre mediocre fair fair,2
+mediocre okay acceptable acceptable okay,2
+fantastic amazing fantastic great great,1
+fair average average mediocre,2
+excellent wonderful great excellent amazing,1
+okay okay average,2
+mediocre average mediocre okay fair,2
+wonderful wonderful wonderful fantastic,1
+fair mediocre okay average average,2
+great excellent excellent great,1
+great excellent fantastic fantastic amazing,1
+mediocre okay fair mediocre okay,2
+fantastic fantastic excellent fantastic,1
+wonderful excellent excellent,1
+bad terrible awful disappointing,0
+fair okay fair,2
+excellent excellent great great,1
+excellent fantastic amazing,1
+poor terrible poor poor,0
+mediocre fair average okay,2
+great wonderful fantastic great great,1
+fantastic excellent great wonderful,1
+fair okay mediocre,2
+fair mediocre average average,2
+fair average acceptable average,2
+awful poor terrible terrible poor,0
+bad awful terrible awful,0
+fantastic fantastic great great amazing,1
+fantastic great fantastic fantastic fantastic,1
+terrible bad disappointing terrible,0
+terrible terrible poor poor terrible,0
+bad poor awful terrible awful,0
+wonderful great excellent,1
+okay okay acceptable,2
+fantastic excellent excellent amazing amazing,1
+awful poor disappointing disappointing terrible,0
+average average fair,2
+bad disappointing poor,0
+mediocre mediocre average,2
+terrible terrible disappointing terrible,0
+okay fair mediocre acceptable average,2
+okay acceptable fair okay acceptable,2
+okay acceptable average,2
+fantastic fantastic fantastic,1
+acceptable average mediocre average mediocre,2
+disappointing poor disappointing disappointing disappointing,0
+awful poor awful awful,0
+terrible awful bad awful disappointing,0
+disappointing terrible poor,0
+amazing wonderful excellent amazing fantastic,1
+fantastic great great fantastic great,1
+terrible disappointing disappointing poor,0
+terrible terrible terrible,0
+awful terrible terrible,0
+great amazing fantastic excellent amazing,1
+awful bad disappointing bad poor,0
+average acceptable mediocre mediocre average,2
+awful terrible terrible,0
+poor awful terrible disappointing,0
+awful terrible terrible awful,0
+poor terrible awful,0
+disappointing terrible awful,0
+amazing great great,1
+fair okay fair average fair,2
+average average fair mediocre,2
+bad terrible bad poor poor,0
+average average okay okay okay,2
+awful disappointing awful bad poor,0
+bad bad poor,0
+average acceptable okay mediocre okay,2
+average mediocre average okay,2
+poor awful terrible bad,0
+bad bad bad disappointing,0
+great amazing fantastic amazing,1
+poor poor terrible,0
+great great amazing wonderful great,1
+mediocre fair fair,2
+wonderful great amazing wonderful,1
+great fantastic excellent wonderful,1
+excellent amazing excellent wonderful,1
+fantastic excellent fantastic fantastic,1
+terrible disappointing poor disappointing,0
+average okay mediocre,2
+great amazing excellent great,1
+fair mediocre okay okay average,2
+disappointing disappointing disappointing awful terrible,0
+mediocre acceptable okay mediocre fair,2
+terrible disappointing awful,0
+average acceptable okay fair fair,2
+great great great fantastic fantastic,1
+great fantastic fantastic fantastic,1
+terrible disappointing bad bad disappointing,0
+average acceptable mediocre,2
+poor awful awful poor disappointing,0
+bad bad awful awful,0
+great amazing excellent fantastic wonderful,1
+wonderful wonderful fantastic excellent amazing,1
+bad awful terrible,0
+terrible terrible disappointing,0
+amazing amazing great excellent,1
+excellent fantastic amazing wonderful great,1
+terrible bad terrible poor,0
+poor awful bad disappointing disappointing,0
+terrible awful disappointing bad,0
+fair fair fair,2
+bad bad poor bad poor,0
+bad bad poor disappointing awful,0
+terrible disappointing poor awful,0
+wonderful fantastic wonderful,1
+terrible disappointing awful terrible,0
+mediocre fair average,2
+awful poor poor disappointing,0
+terrible bad poor bad poor,0
+acceptable average fair acceptable mediocre,2
+awful poor poor bad disappointing,0
+awful awful disappointing poor,0
+bad awful awful disappointing,0
+fair mediocre average acceptable,2
+fair average okay average fair,2
+terrible awful awful,0
+terrible bad poor,0
+acceptable okay acceptable okay,2
+great excellent fantastic,1
+wonderful amazing amazing,1
+excellent wonderful wonderful great,1
+great wonderful great excellent excellent,1
+mediocre fair acceptable,2
+okay acceptable average,2
+okay okay acceptable,2
+poor terrible awful awful,0
+terrible bad terrible terrible,0
+fair average average,2
+fair fair average,2
+terrible poor disappointing disappointing,0
+disappointing bad terrible poor disappointing,0
+amazing amazing amazing wonderful wonderful,1
+bad poor disappointing,0
+fantastic excellent excellent excellent great,1
+wonderful great great wonderful,1
+bad bad bad,0
+terrible awful disappointing,0
+poor disappointing poor awful,0
+mediocre average acceptable average mediocre,2
+disappointing poor poor,0
+terrible disappointing disappointing,0
+amazing amazing great great,1
+disappointing terrible poor,0
+acceptable okay mediocre,2
+great great excellent excellent excellent,1
+disappointing poor disappointing disappointing,0
+wonderful amazing great wonderful amazing,1
+acceptable okay mediocre,2
+disappointing bad terrible,0
+terrible disappointing bad,0
+mediocre mediocre acceptable okay acceptable,2
+fantastic amazing fantastic,1
+wonderful amazing amazing,1
+mediocre mediocre fair average okay,2
+excellent wonderful great amazing amazing,1
+terrible bad disappointing bad disappointing,0
+amazing fantastic excellent excellent,1
+great wonderful great great,1
+awful terrible poor poor,0
+mediocre acceptable okay,2
+wonderful great amazing wonderful amazing,1
+poor disappointing disappointing poor awful,0
+fair average acceptable fair okay,2
+great fantastic wonderful excellent,1
+great excellent great great great,1
+excellent amazing fantastic amazing,1
+mediocre fair average acceptable okay,2
+average acceptable acceptable average fair,2
+terrible disappointing poor bad poor,0
+wonderful excellent great fantastic,1
+excellent wonderful amazing wonderful excellent,1
+okay fair average,2
+poor bad bad bad,0
+acceptable fair average okay,2
+wonderful amazing fantastic excellent great,1
+amazing wonderful fantastic wonderful,1
+poor bad bad awful disappointing,0
+amazing amazing great excellent,1
+terrible disappointing bad,0
+okay average acceptable okay,2
+disappointing disappointing terrible,0
+fair fair okay average,2
+great amazing excellent excellent,1
+okay mediocre fair,2
+great great great great wonderful,1
+bad terrible disappointing bad,0
+terrible awful terrible poor terrible,0
+poor bad poor disappointing,0
+poor bad disappointing awful terrible,0
+awful awful bad poor awful,0
+disappointing poor terrible awful awful,0
+amazing amazing great fantastic great,1
+disappointing disappointing bad disappointing,0
+wonderful wonderful great amazing amazing,1
+amazing fantastic great,1
+mediocre fair okay acceptable,2
+wonderful fantastic great excellent wonderful,1
+fantastic excellent great fantastic,1
+terrible poor disappointing bad,0
+great amazing wonderful great,1
+awful poor terrible poor disappointing,0
+acceptable okay mediocre,2
+awful disappointing poor awful bad,0
+poor awful awful,0
+great great fantastic fantastic wonderful,1
+acceptable acceptable average,2
+fantastic great fantastic great amazing,1
+terrible disappointing disappointing disappointing terrible,0
+mediocre okay average,2
+average fair okay acceptable acceptable,2
+okay fair okay,2
+disappointing terrible terrible disappointing,0
+great excellent amazing great,1
+fair fair okay,2
+amazing fantastic wonderful excellent great,1
+amazing great fantastic excellent great,1
+excellent fantastic amazing wonderful excellent,1
+terrible terrible bad awful,0
+great great excellent great great,1
+amazing excellent amazing wonderful,1
+mediocre fair okay,2
+poor disappointing disappointing,0
+fantastic wonderful excellent wonderful,1
+wonderful fantastic fantastic fantastic,1
+wonderful fantastic wonderful excellent,1
+fantastic excellent fantastic excellent,1
+mediocre okay okay average okay,2
+acceptable mediocre average,2
+awful disappointing awful,0
+amazing excellent wonderful great,1
+awful poor awful,0
+acceptable acceptable acceptable,2
+poor disappointing bad poor,0
+mediocre average fair average,2
+fantastic excellent amazing fantastic,1
+acceptable acceptable average mediocre,2
+okay mediocre average okay acceptable,2
+fantastic wonderful wonderful great,1
+acceptable average acceptable average okay,2
+poor poor disappointing,0
+okay okay acceptable,2
+awful poor awful bad terrible,0
+okay mediocre fair fair,2
+fair mediocre acceptable,2
+poor disappointing disappointing poor poor,0
+great amazing excellent wonderful,1
+average mediocre average,2
+awful awful awful,0
+average okay mediocre average fair,2
+average acceptable average average,2
+acceptable fair mediocre average,2
+average mediocre mediocre okay,2
+bad awful disappointing awful,0
+excellent excellent fantastic excellent fantastic,1
+mediocre acceptable fair,2
+wonderful excellent wonderful great great,1
+poor disappointing bad terrible,0
+wonderful amazing excellent great,1
+mediocre okay fair acceptable average,2
+poor disappointing bad,0
+fair okay okay average,2
+fantastic great fantastic fantastic fantastic,1
+wonderful excellent excellent,1
+poor terrible awful disappointing,0
+great amazing great amazing excellent,1
+disappointing awful disappointing terrible poor,0
+fair acceptable mediocre,2
+okay fair average okay,2
+bad disappointing terrible terrible bad,0
+bad poor terrible bad poor,0
+fair mediocre fair average,2
+fair mediocre average okay,2
+disappointing awful disappointing disappointing,0
+terrible poor disappointing awful awful,0
+okay mediocre average,2
+disappointing bad poor,0
+amazing wonderful fantastic wonderful amazing,1
+terrible disappointing terrible,0
+wonderful great amazing,1
+average acceptable acceptable mediocre,2
+wonderful great amazing,1
+fantastic fantastic fantastic amazing amazing,1
+acceptable okay average mediocre,2
+wonderful excellent wonderful great,1
+terrible terrible awful bad,0
+terrible terrible disappointing,0
+excellent excellent fantastic,1
+awful poor awful,0
+wonderful amazing fantastic excellent,1
+awful poor terrible disappointing,0
+terrible awful bad awful awful,0
+mediocre acceptable fair mediocre mediocre,2
+bad bad terrible,0
+poor poor poor terrible,0
+acceptable acceptable acceptable acceptable fair,2
+wonderful fantastic fantastic amazing,1
+mediocre okay acceptable average,2
+mediocre mediocre acceptable average,2
