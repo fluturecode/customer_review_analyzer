@@ -1,43 +1,39 @@
 import tensorflow as tf
+import pickle
+import numpy as np
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+import os
 
 class SentimentPredictor:
-    def __init__(self, model_path, tokenizer):
+    def __init__(self, model_path, tokenizer_path):
         self.model = tf.keras.models.load_model(model_path)
-        self.tokenizer = tokenizer
+        with open(tokenizer_path, 'rb') as handle:
+            self.tokenizer = pickle.load(handle)
         self.max_len = 200  # This should match the max_len used during training
 
     def predict_sentiment(self, text):
-        # Preprocess the input text
         sequence = self.tokenizer.texts_to_sequences([text])
         padded = pad_sequences(sequence, maxlen=self.max_len, padding='post', truncating='post')
-        
-        # Make prediction
         prediction = self.model.predict(padded)
-        sentiment_class = tf.argmax(prediction, axis=1).numpy()[0]
-        
-        # Map sentiment class to label
+        sentiment_class = np.argmax(prediction, axis=1)[0]
         sentiment_map = {0: "Negative", 1: "Positive", 2: "Neutral"}
         return sentiment_map[sentiment_class]
 
-# Usage example:
 if __name__ == "__main__":
-    import pickle
+    # Adjust these paths based on your project structure
+    model_path = '../models/sentiment_model.keras'
+    tokenizer_path = '../models/tokenizer.pickle'
     
-    # Load the tokenizer
-    with open('../models/tokenizer.pickle', 'rb') as handle:
-        tokenizer = pickle.load(handle)
-    
-    predictor = SentimentPredictor('../models/sentiment_model.h5', tokenizer)
+    predictor = SentimentPredictor(model_path, tokenizer_path)
     
     # Test the predictor
     test_reviews = [
-        "This product exceeded my expectations!",
-        "Terrible customer service, never buying again.",
+        "This product is amazing! I love it!",
+        "Terrible experience, never buying again.",
         "It's an okay product, nothing special."
     ]
     
     for review in test_reviews:
         sentiment = predictor.predict_sentiment(review)
         print(f"Review: {review}")
-        print(f"Sentiment: {sentiment}\n")
+        print(f"Predicted sentiment: {sentiment}\n")
