@@ -17,7 +17,7 @@ class SentimentPredictor:
         prediction = self.model.predict(padded)
         sentiment_class = np.argmax(prediction, axis=1)[0]
         sentiment_map = {0: "Negative", 1: "Positive", 2: "Neutral"}
-        return sentiment_map[sentiment_class]
+        return sentiment_map[sentiment_class], prediction[0]
 
 if __name__ == "__main__":
     # Adjust these paths based on your project structure
@@ -34,6 +34,9 @@ if __name__ == "__main__":
     ]
     
     for review in test_reviews:
-        sentiment = predictor.predict_sentiment(review)
+        sentiment, raw_prediction = predictor.predict_sentiment(review)
         print(f"Review: {review}")
-        print(f"Predicted sentiment: {sentiment}\n")
+        print(f"Predicted sentiment: {sentiment}")
+        print(f"Raw prediction: {raw_prediction}")
+        print(f"Predicted class: {np.argmax(raw_prediction)}")
+        print()
